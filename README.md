@@ -1,2 +1,2 @@
 # Github-Page
-Criação de página que será utilizada para realização de trabalhos
+Neste repositório estarão armazenados os conteúdos trabalhados anteriormente na máteria.
